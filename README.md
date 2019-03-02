@@ -1,4 +1,4 @@
-# CA-Studio
+# CA Studio
 Universal cross cellular automaton logic simulator which compiles into many specific automatons. 
 
 Each CA (cellular automaton) has its own properties, constructions, logic. Many times they all implement the same basic design pattern. In CA studio we collect the design pattern and present them in simplified and user friendly way, so that the end user could enjoy the intricacies of CA designs without having his hand durty. 
